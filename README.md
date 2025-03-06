@@ -1,4 +1,3 @@
-Below is a sample README.md file for your Calculator RESTful Web Service project that you can upload to GitHub:
 
 # Calculator RESTful Web Service
 
